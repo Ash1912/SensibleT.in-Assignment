@@ -172,7 +172,7 @@ Use a tool like Postman or CURL to test the endpoints.
 
 **3. Get All Transactions for a User (GET http://127.0.0.1:8000/api/transactions/by_user/?user_id=1)**: 
 
-**Response **:
+**Response**:
 
 ```json
 {
@@ -188,7 +188,7 @@ Use a tool like Postman or CURL to test the endpoints.
 }
 ```
 
-**Update Transaction Status (PATCH /api/transactions/1/):
+**4. Update Transaction Status (PATCH /api/transactions/1/)**:
 
 **Request**:
 
